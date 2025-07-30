@@ -82,7 +82,7 @@
     "@bifravst/from-env": "3.0.2",
     "@hello.nrfcloud.com/proto": "15.4.41",
     "@hello.nrfcloud.com/proto-map": "16.4.6",
-    "mqtt": "5.13.3",
+    "mqtt": "5.14.0",
     "xml2js": "0.6.2"
   }
 }
