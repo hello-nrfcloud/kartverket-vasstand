@@ -43,7 +43,7 @@
     "constructs": "10.4.2",
     "globstar": "1.0.0",
     "husky": "9.1.7",
-    "nock": "14.0.9",
+    "nock": "14.0.10",
     "tsx": "4.20.4"
   },
   "lint-staged": {
