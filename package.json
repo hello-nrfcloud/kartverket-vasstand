@@ -80,7 +80,7 @@
   "dependencies": {
     "@bifravst/aws-ssm-settings-helpers": "1.2.232",
     "@bifravst/from-env": "3.0.2",
-    "@hello.nrfcloud.com/proto": "15.4.79",
+    "@hello.nrfcloud.com/proto": "15.4.80",
     "@hello.nrfcloud.com/proto-map": "16.5.30",
     "mqtt": "5.14.1",
     "xml2js": "0.6.2"
