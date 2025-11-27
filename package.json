@@ -36,7 +36,7 @@
     "@types/aws-lambda": "8.10.159",
     "@types/xml2js": "0.4.14",
     "aws-cdk": "2.1033.0",
-    "aws-cdk-lib": "2.227.0",
+    "aws-cdk-lib": "2.228.0",
     "cdk": "2.1033.0",
     "check-node-version": "4.2.1",
     "commitlint": "19.8.1",
