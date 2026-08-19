@@ -25,7 +25,7 @@ export const getDeviceCredentials = async ({
 		const [station, property] = name.split('/', 2)
 		if (station === undefined) continue
 		if (property === undefined) continue
-		if (credentialData[station] === undefined) credentialData[station] = {}
+		credentialData[station] ??= {}
 		credentialData[station][property] = value
 	}
 
@@ -41,5 +41,5 @@ export const getDeviceCredentials = async ({
 				certificate,
 			}
 		})
-		.filter((d) => d !== undefined) as Array<Credentials>
+		.filter((d) => d !== undefined)
 }
