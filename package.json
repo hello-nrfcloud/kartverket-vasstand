@@ -30,7 +30,7 @@
     "@aws-sdk/client-ssm": "3.1175.0",
     "@bifravst/aws-cdk-lambda-helpers": "6.0.3",
     "@bifravst/ci": "3.0.3",
-    "@bifravst/eslint-config-typescript": "9.0.3",
+    "@bifravst/eslint-config-typescript": "9.0.4",
     "@bifravst/prettier-config": "2.0.7",
     "@commitlint/config-conventional": "21.2.4",
     "@types/aws-lambda": "8.10.164",
